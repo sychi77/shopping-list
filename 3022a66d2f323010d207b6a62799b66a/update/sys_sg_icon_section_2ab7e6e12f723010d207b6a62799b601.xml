@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon_section">
+    <sys_sg_icon_section action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applets>12b7a6e12f723010d207b6a62799b6bb</applets>
+        <data_item/>
+        <display_feed_count>false</display_feed_count>
+        <hide_header>false</hide_header>
+        <hide_section_if_empty>false</hide_section_if_empty>
+        <is_hidden_preference_name/>
+        <orientation>horizontal</orientation>
+        <required_roles>public</required_roles>
+        <sys_class_name>sys_sg_icon_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-24 20:28:17</sys_created_on>
+        <sys_id>2ab7e6e12f723010d207b6a62799b601</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Shopping Item</sys_name>
+        <sys_package display_value="Shopping List" source="x_441606_shopping">3022a66d2f323010d207b6a62799b66a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">3022a66d2f323010d207b6a62799b66a</sys_scope>
+        <sys_update_name>sys_sg_icon_section_2ab7e6e12f723010d207b6a62799b601</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-24 20:28:17</sys_updated_on>
+        <table/>
+        <title>Shopping Item</title>
+        <visible_condition/>
+    </sys_sg_icon_section>
+</record_update>
